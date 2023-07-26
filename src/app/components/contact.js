@@ -4,7 +4,7 @@ const Contact = () => {
     return (
         <div className="container mx-auto p-4 content-center">
             <h1 className="text-center text-3xl font-bold mb-4">Nous contactez</h1>
-            <div className='flex flex-row'>
+            <div className='flex flex-col-reverse md:flex-row'>
                 <div className=' flex flex-col gap-5 py-10'>
 
                     <p >

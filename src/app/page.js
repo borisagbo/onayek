@@ -5,6 +5,7 @@ import Baniere from "@/app/components/Baniere";
 import Showroom from "@/app/components/showroom";
 import Matieres from "@/app/components/matieres";
 import Contact from "@/app/components/contact";
+import Footer from "@/app/components/footer";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
         <Showroom/>
         <Matieres/>
         <Contact/>
+        <Footer/>
 
 
     </>
